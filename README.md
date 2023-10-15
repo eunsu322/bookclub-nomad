@@ -1,3 +1,3 @@
 # bookclub-nomad
-<hr><hr>
+<hr>
 IT Dictionary
